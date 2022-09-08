@@ -23,7 +23,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
+	"github.com/IevgenLuzan/clickhouse-go/v2"
 	"github.com/stretchr/testify/assert"
 )
 

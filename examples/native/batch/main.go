@@ -23,7 +23,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
+	"github.com/IevgenLuzan/clickhouse-go/v2"
 	"github.com/google/uuid"
 )
 

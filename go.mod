@@ -5,7 +5,6 @@ go 1.18
 require (
 	github.com/ClickHouse/ch-go v0.47.3
 	github.com/ClickHouse/clickhouse-go v1.5.4
-	github.com/ClickHouse/clickhouse-go/v2 v2.3.0
 	github.com/andybalholm/brotli v1.0.4
 	github.com/docker/docker v20.10.11+incompatible
 	github.com/docker/go-units v0.4.0
